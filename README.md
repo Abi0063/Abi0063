@@ -1,5 +1,7 @@
 # 💫 About Me:
 hey! all I'm abi
+I'm a pre-final year Computer Science and Business Systems student with a passion for software development, data structures, and AI. I enjoy building projects that solve real-world problems and exploring emerging technologies.
+
 
 
 ## 🌐 Socials:
