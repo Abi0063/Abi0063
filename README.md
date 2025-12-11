@@ -2,7 +2,6 @@
 hey! all I'm abi
  pre-final year Computer Science and Business Systems student with a passion for software development, data structures, and AI. I enjoy building projects that solve real-world problems and exploring emerging technologies.
 
-![Profile Greeting](link/to/your/image.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-r-a13334292/) 
