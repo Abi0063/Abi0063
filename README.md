@@ -1,15 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=ABINAYA%20R&fontSize=35&fontAlign=50&fontAlignY=50" alt="ABINAYA R Blue Waving Banner"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ABINAYA+R&font=VT323&center=true&size=30&color=00BFFF&duration=3000&vCenter=true&width=200" alt="Animated Typing Text - Name Only"/>
-  
+
   <br>
 </div>
 
----
----
-  
-  <br>
 
 ## Hello World! 👋 I'm Abinayan
 
