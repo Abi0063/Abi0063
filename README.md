@@ -1,22 +1,74 @@
-# 💫 About Me:
-hey! all I'm abi
- pre-final year Computer Science and Business Systems student with a passion for software development, data structures, and AI. I enjoy building projects that solve real-world problems and exploring emerging technologies.
+# Hi there, I'm Abinaya R 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-r-a13334292/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.csbs03@gmail.com)
-
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=  Abi0063&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=  Abi0063&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=  Abi0063&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+📍 Coimbatore | ✉ kit27.csbs03@gmail.com | 📞 9344870524  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=  Abi0063&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 Education
+*B.Tech in Computer Science & Business Systems*  
+Kalaignar Karunanidhi Institute of Technology | 2023 – 2027  
+Current CGPA: 7.8/10.0  
+
+*Relevant Coursework:* Computer Networks, Operating Systems, DBMS, Python Programming, Web Technologies, Java, C
+
+---
+
+## 💼 Experience
+*Web Application Development Intern* – Learn Logicify Technology, Coimbatore | June 2025  
+- Developed responsive UI components using HTML, CSS, and JavaScript with cross-browser compatibility.  
+- Improved page layouts and interaction flows to enhance user experience.  
+- Collaborated with developers and designers to build and refine features for real-world client projects.
+
+---
+
+## 🛠 Projects
+
+### *Smart Alcohol-Responsive Ignition Lock System* (Mini Project – Group)
+- Detects alcohol levels using MQ-3 sensor and Arduino.  
+- Blocks vehicle ignition automatically when alcohol level crosses threshold.  
+- Low-cost, fast, and reliable solution to reduce drunk-driving incidents.
+
+### *Organic Spices Website*
+- Frontend development with HTML, CSS, JavaScript; responsive design.  
+- Features: browse products, view details, add to cart with automatic updates.  
+- Implemented real-time cart operations like quantity update, remove item, and price recalculation.
+
+---
+
+## 💻 Technical Skills
+- *Programming Languages:* C, Java, Python, JavaScript  
+- *Web Development:* HTML, CSS, JavaScript  
+- *Databases:* SQL  
+- *Tools:* GitHub, OOPs concepts  
+
+---
+
+## 🏆 Competitive Programming
+- *LeetCode:* 100+ problems solved | Global Rank: 732,951 | Top 92.1%  
+- *CodeChef:* 400+ problems solved | Highest Rating: 1035 | Global Rank: 142,121 | Country Rank: 135,686  
+
+---
+
+## 🎓 Certifications
+- NPTEL – Programming in Java (Elite – 79%) | 2024  
+- Infosys Springboard – Java Foundation Certification | 2024  
+- Infosys Springboard – Python Foundation Certification | 2024  
+- Coursera – Build a Full Website using WordPress | 2024  
+
+---
+
+## 🌟 Achievements
+- Built a responsive e-commerce front-end with dynamic cart features.  
+- Developed and tested an alcohol-responsive ignition lock system using Arduino and MQ-3.  
+- Enhanced UI consistency and performance during frontend internship.
+
+---
+
+## 🤝 Volunteering
+- Peer mentor helping juniors debug Python and Java code, improving their problem-solving approach and coding accuracy.
+
+---
+
+## 🔗 Links
+- [LeetCode Profile](https://leetcode.com/u/BalaramanMuthuraj/)  
+- [CodeChef Profile](https://www.codechef.com/users/balaramanm)
