@@ -52,7 +52,7 @@ hey! all I'm abi
 
 ---
 
-### ⚙️ Tools & Utilities
+### ⚙️ Tools 
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge"/>
@@ -85,9 +85,7 @@ hey! all I'm abi
 
 * **OOP Deep Dive:** Strong understanding of Object-Oriented Programming (OOP) concepts in Java.
 * Gained a solid understanding of core Java and OOP concepts (classes, objects, inheritance, polymorphism).
- *Improved problem-solving and algorithmic thinking through coding practice*
 *.  Learned practical use of exception handling, collections, and file I/O.
-*. 
 *. Improved problem-solving and algorithmic thinking through coding practice.
  
 
