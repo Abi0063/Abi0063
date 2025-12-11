@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="your-banner-image-url.png" alt="ABINAYAN - Data Science Enthusiast | Full-Stack Developer Banner">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=ABINAYA r%20P%20M&fontSize=60&fontAlign=40&fontAlignY=35&desc=Data%20Science%20Enthusiast%20|%20ML%20Specialist&descAlign=60&descAlignY=55&descSize=25" alt="Abinayan Waving Banner"/>
 
 ## Hello World! 👋 I'm Abinayan
 
 I am a **Computer Science** student (or graduate/professional) who is passionate about leveraging technology to solve real-world problems. I love diving deep into data and building robust applications.
 
 Currently, I'm focusing on **Data Science, Machine Learning Algorithms,** and improving my skills in **Backend Development** to build scalable and intelligent systems.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=ABINAYAN%20P%20M&fontSize=60&fontAlign=40&fontAlignY=35&desc=Data%20Science%20Enthusiast%20|%20ML%20Specialist&descAlign=60&descAlignY=55&descSize=25" alt="Abinayan Waving Banner"/>
+
 
 ---
 
