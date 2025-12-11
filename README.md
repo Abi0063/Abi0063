@@ -79,17 +79,15 @@ hey! all I'm abi
     <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/NPTEL-Elite%20+%20Silver-9C78A4?style=for-the-badge&logo=java&logoColor=white" alt="NPTEL Elite Silver Badge"/>
       <h4>Programming in Java 79%</h4>
-     
-    </td>
-    </tr>
 </table>
 
 #### Key Learnings from NPTEL:
 
 * **OOP Deep Dive:** Strong understanding of Object-Oriented Programming (OOP) concepts in Java.
-* 
-*. Gained a solid understanding of core Java and OOP concepts (classes, objects, inheritance, polymorphism).
-*. Learned practical use of exception handling, collections, and file I/O.
+* Gained a solid understanding of core Java and OOP concepts (classes, objects, inheritance, polymorphism).
+
+*.  Learned practical use of exception handling, collections, and file I/O.
+*. 
 *. Improved problem-solving and algorithmic thinking through coding practice.
  
 
