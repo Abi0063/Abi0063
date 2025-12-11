@@ -85,19 +85,12 @@ hey! all I'm abi
 
 * **OOP Deep Dive:** Strong understanding of Object-Oriented Programming (OOP) concepts in Java.
 * Gained a solid understanding of core Java and OOP concepts (classes, objects, inheritance, polymorphism).
-
+ *Improved problem-solving and algorithmic thinking through coding practice*
 *.  Learned practical use of exception handling, collections, and file I/O.
 *. 
 *. Improved problem-solving and algorithmic thinking through coding practice.
  
 
 ---
-### 🛠️ Key Focus Areas
-
-| Area | Technologies |
-| :--- | :--- |
-| **Data Science** | Python, Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch |
-| **Development** | JavaScript, Node.js (or Django/Flask), SQL, MongoDB |
-| **Cloud/DevOps**| Docker, Git, (AWS/Azure/GCP) |
 
 
