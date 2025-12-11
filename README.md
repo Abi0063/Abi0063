@@ -13,8 +13,7 @@ hey! all I'm abi
 ### 📘 Currently Learning & Building
 
 * **Competitive Problem Solving:** Strengthening core logic and problem-solving skills by regularly practicing **Data Structures & Algorithms (DSA)** challenges.
-* **Backend Mastery:** Deep diving into robust server-side development and API creation using **Node.js** and the **Express.js** framework.
-* **Full-Stack Ecosystem:** Mastering the modern stack for dynamic, scalable applications using the **MERN stack** (React for Frontend + Node/Express for Backend + MongoDB for Database).
+* **Backend Mastery:** Deep diving into robust server-side development and API creation using **Node.js** and the **Express.js** framework
 * **Practical Application:** Focused on **building real-world projects** (Full-Stack web applications) to convert theoretical knowledge into tangible, practical experience.
 
 
