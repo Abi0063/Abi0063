@@ -78,6 +78,26 @@ hey! all I'm abi
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   <img src="https://img.shields.io/badge/Codeforces-445CC-5B4638?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
 </p>
+---
+
+### 🏅 Certifications & Milestones
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/NPTEL-Elite%20+%20Silver-9C78A4?style=for-the-badge&logo=java&logoColor=white" alt="NPTEL Elite Silver Badge"/>
+      <h4>Programming in Java</h4>
+      <p>Achieved **Elite + Silver** certification</p>
+    </td>
+    </tr>
+</table>
+
+#### Key Learnings from NPTEL:
+
+* **OOP Deep Dive:** Strong understanding of Object-Oriented Programming (OOP) concepts in Java.
+* 
+
+---
 ### 🛠️ Key Focus Areas
 
 | Area | Technologies |
