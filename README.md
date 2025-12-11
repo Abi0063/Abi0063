@@ -10,8 +10,12 @@ hey! all I'm abi
  pre-final year Computer Science and Business Systems student with a passion for software development, data structures, and AI. I enjoy building projects that solve real-world problems and exploring emerging technologies.
 
 
-Currently, I'm focusing on **Fullstack development, Machine Learning Algorithms,** and improving my skills in **Backend Development** to build scalable and intelligent systems.
+### 📘 Currently Learning & Building
 
+* **Competitive Problem Solving:** Strengthening core logic and problem-solving skills by regularly practicing **Data Structures & Algorithms (DSA)** challenges.
+* **Backend Mastery:** Deep diving into robust server-side development and API creation using **Node.js** and the **Express.js** framework.
+* **Full-Stack Ecosystem:** Mastering the modern stack for dynamic, scalable applications using the **MERN stack** (React for Frontend + Node/Express for Backend + MongoDB for Database).
+* **Practical Application:** Focused on **building real-world projects** (Full-Stack web applications) to convert theoretical knowledge into tangible, practical experience.
 
 
 ---
