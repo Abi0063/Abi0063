@@ -1,4 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=ABINAYA%20R&fontSize=30&fontAlign=40&fontAlignY=35&sc=%20Science%20Enthusiast%de20|%20ML%20Specialist&descAlign=60&descAlignY=55&descSize=25" alt="Abinayan Waving Banner"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=ABINAYA%20R&fontSize=35&fontAlign=50&fontAlignY=50" alt="ABINAYA R Waving Banner"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;ML+Specialist;Building+Intelligent+Applications&font=VT323&center=true&size=30&color=00FF7F&duration=3500&vCenter=true&width=550" alt="Animated Typing Text with Retro Terminal Font"/>
+  
+  <br>
+</div>
+
+---
 ## Hello World! 👋 I'm Abinayan
 
 I am a **Computer Science** student (or graduate/professional) who is passionate about leveraging technology to solve real-world problems. I love diving deep into data and building robust applications.
