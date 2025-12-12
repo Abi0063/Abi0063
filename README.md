@@ -85,8 +85,8 @@ hey! all I'm abi
 
 * **OOP Deep Dive:** Strong understanding of Object-Oriented Programming (OOP) concepts in Java.
 * Gained a solid understanding of core Java and OOP concepts (classes, objects, inheritance, polymorphism).
-*.  Learned practical use of exception handling, collections, and file I/O.
-*. Improved problem-solving and algorithmic thinking through coding practice.
+*.Learned practical use of exception handling, collections, and file I/O.
+*.Improved problem-solving and algorithmic thinking through coding practice.
  
 
 ---
