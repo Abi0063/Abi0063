@@ -87,5 +87,16 @@ hey! all I'm abi
 * Learned practical use of exception handling, collections, and file I/O.
 * Improved problem-solving and algorithmic thinking through coding practice.
 
+* ## 💻 My Projects
+
+### 🚀 [Personal Portfolio](your-link-here)
+A professional portfolio built using **HTML & CSS**, showcasing my skills, projects, and contact links with a modern, elegant design.
+
+### ⚙️ [To-Do List App](your-link-here)
+An interactive **To-Do List** made using **HTML, CSS, and JavaScript**. Features include adding, completing, and deleting tasks with a smooth, minimal interface.
+
+### 🍃 [Organic Spices Website](your-link-here)
+A vibrant e-commerce landing page for **Organic Spices** built with **HTML, CSS, and JavaScript**. Includes a product gallery, modern layout (Grid/Flexbox), and a newsletter subscription feature.
+
 
 
