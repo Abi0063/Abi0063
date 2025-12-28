@@ -89,7 +89,7 @@ hey! all I'm abi
 
 * ## 💻 My Projects
 
-### 🚀 [Personal Portfolio](your-link-here)
+### 🚀 [Personal Portfolio](https://github.com/Abi0063/Portfolio)
 A professional portfolio built using **HTML & CSS**, showcasing my skills, projects, and contact links with a modern, elegant design.
 
 ### ⚙️ [To-Do List App](your-link-here)
