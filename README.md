@@ -95,8 +95,6 @@ A professional portfolio built using **HTML & CSS**, showcasing my skills, proje
 ### ⚙️ [To-Do List App](https://github.com/Abi0063/Todolist)
 An interactive **To-Do List** made using **HTML, CSS, and JavaScript**. Features include adding, completing, and deleting tasks with a smooth, minimal interface.
 
-### 🍃 [Organic Spices Website](your-link-here)
-A vibrant e-commerce landing page for **Organic Spices** built with **HTML, CSS, and JavaScript**. Includes a product gallery, modern layout (Grid/Flexbox), and a newsletter subscription feature.
 
 
 
